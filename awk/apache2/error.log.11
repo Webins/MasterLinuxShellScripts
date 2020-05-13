@@ -1,0 +1,6 @@
+[Fri Jan 31 08:16:20.095793 2020] [mpm_prefork:notice] [pid 927] AH00163: Apache/2.4.25 (Debian) configured -- resuming normal operations
+[Fri Jan 31 08:16:20.095890 2020] [core:notice] [pid 927] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jan 31 18:42:45.586753 2020] [mpm_prefork:notice] [pid 927] AH00169: caught SIGTERM, shutting down
+[Sun Feb 02 11:28:40.249302 2020] [mpm_prefork:notice] [pid 853] AH00163: Apache/2.4.25 (Debian) configured -- resuming normal operations
+[Sun Feb 02 11:28:40.774317 2020] [core:notice] [pid 853] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Feb 02 11:36:23.318909 2020] [mpm_prefork:notice] [pid 853] AH00171: Graceful restart requested, doing restart
